@@ -1,4 +1,4 @@
-# 🧠 NEXTFANG: CP Legend Hub
+# 🧠 NEXTFAANG: CP Legend Hub
 
 <p align="center">
   Your ultimate platform to master Competitive Programming, DSA, and Tech Interviews — built for CS & non-CS students alike.
