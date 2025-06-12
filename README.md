@@ -21,7 +21,9 @@
 - 📚 Blogs & tips for coding & tech careers  
 - 💡 Interview prep & real-world scenarios  
 - 🔔 Notifications and reminders  
-- 📱 Fully responsive with sleek animations  
+- 📱 Fully responsive with sleek animations
+- 🚧 Ongoing Development
+I am currently working on this project and actively improving its features to enhance functionality and user experience.
 
 ---
 
