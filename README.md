@@ -52,7 +52,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Explore NEXTFANG Now](https://lovable.dev/projects/0aa7af2e-318b-4b38-9fea-5d634e70a97a)
+👉 [Explore NEXTFANG Now](https://nextfang-cp-legend-hub-59.lovable.app/)
 
 ---
 
